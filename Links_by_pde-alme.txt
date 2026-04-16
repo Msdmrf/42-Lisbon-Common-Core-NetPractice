@@ -1,0 +1,28 @@
+- TCP/IP - Internet Protocol suite		-> https://en.wikipedia.org/wiki/Internet_protocol_suite
+- TCP/IP - IPv4 Addressing				-> https://en.wikipedia.org/wiki/IPv4
+- TCP/IP - IPv6 Addressing				-> https://en.wikipedia.org/wiki/IPv6
+- TCP/IP - Application Layer			-> https://en.wikipedia.org/wiki/Application_layer
+- TCP/IP - Transport Layer				-> https://en.wikipedia.org/wiki/Transport_layer
+- TCP/IP - Internet Layer				-> https://en.wikipedia.org/wiki/Internet_layer
+- TCP/IP - Link Layer					-> https://en.wikipedia.org/wiki/Link_layer
+- IP Address							-> https://en.wikipedia.org/wiki/IP_address
+- Interfaces							-> https://en.wikipedia.org/wiki/Network_interface_controller
+- Switches								-> https://en.wikipedia.org/wiki/Network_switch
+- Routers								-> https://en.wikipedia.org/wiki/Router_(computing)
+- Routing								-> https://en.wikipedia.org/wiki/Routing
+- Regional Internet Registry (RIR)		-> https://en.wikipedia.org/wiki/Regional_Internet_registry
+- Wide Area Network (WAN)				-> https://en.wikipedia.org/wiki/Wide_area_network
+- Local Area Network (LAN)				-> https://en.wikipedia.org/wiki/Local_area_network
+- Network Address Translation (NAT)		-> https://en.wikipedia.org/wiki/Network_address_translation
+- Internet Backbone						-> https://en.wikipedia.org/wiki/Internet_backbone
+- Core Routers/Networks					-> https://en.wikipedia.org/wiki/Core_router
+- Private Networks						-> https://en.wikipedia.org/wiki/Private_network
+- Network Classes						-> https://en.wikipedia.org/wiki/Classful_network
+- Reserved IP Addresses					-> https://en.wikipedia.org/wiki/List_of_reserved_IP_addresses
+- Default Gateway						-> https://en.wikipedia.org/wiki/Default_gateway
+- Localhost								-> https://en.wikipedia.org/wiki/Localhost
+- Loopback								-> https://en.wikipedia.org/wiki/Loopback
+- Subnets and Subnet Masks				-> https://en.wikipedia.org/wiki/Subnet
+- The Network Address					-> https://en.wikipedia.org/wiki/Network_address
+- The Broadcast Address					-> https://en.wikipedia.org/wiki/Broadcast_address
+- OSI Model and Layering				-> https://en.wikipedia.org/wiki/OSI_model
